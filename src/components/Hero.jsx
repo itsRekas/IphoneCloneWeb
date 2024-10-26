@@ -49,6 +49,7 @@ const Hero = () => {
                 <p className="font-normal text-xl">From $199/month or $999</p>
             </div>
         </div>
+        
     </section>
   )
 }
